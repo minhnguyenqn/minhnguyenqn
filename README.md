@@ -14,8 +14,10 @@
 - ⚡ Fun fact **I’m always curious about how things work**
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minhnguyenqn&show_icons=true&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minhnguyenqn&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnguyenqn&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/minhnguyenqn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minhnguyenqn" height="30" width="40" /></a>
