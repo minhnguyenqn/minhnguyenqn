@@ -12,11 +12,9 @@
 - 📫 How to reach me **minhnguyenleqn07@gmail.com**
 
 - ⚡ Fun fact **I’m always curious about how things work**
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhnguyenqn&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnguyenqn&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=minhnguyenqn&show_icons=true&theme=radical" alt="Minh's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=minhnguyenqn&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
