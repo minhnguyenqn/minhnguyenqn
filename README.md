@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/minhnguyenqn](https://github.com/minhnguyenqn)
 
-- 🎓 Know about my experiences [CS Student @HCMUT](CS Student @HCMUT)
+- 🎓 Know about my experiences (CS Student @HCMUT)
 
 - 💬 Ask me about **C++, Python, Algorithms & Problem Solving**
 
