@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Minh Nguyen
 
-<!--
-**minhnguyenqn/minhnguyenqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Interested in **Software Engineering, Artificial Intelligence & Algorithms**
+🧮 Math enthusiast | Competitive Programming learner
+🚀 Aspiring to become a strong Software Engineer / AI Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* 🎓 Currently studying **Computer Science**
+* 🌱 Currently learning **C++, Python**
+* 🤖 Interested in **Artificial Intelligence & Machine Learning**
+
+---
+🌐 Connect with me
+https://www.linkedin.com/in/minh-nguy%E1%BB%85n-l%C3%AA-61a5583ba/
+minhnguyenleqn07@gmail.com
+
+---
+
