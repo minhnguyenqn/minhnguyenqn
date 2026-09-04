@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Minh Nguyen
 
 🎓 Computer Science Student
+
 💻 Interested in **Software Engineering, Artificial Intelligence & Algorithms**
+
 🧮 Math enthusiast | Competitive Programming learner
+
 🚀 Aspiring to become a strong Software Engineer / AI Engineer
 
 ---
